@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Dynamos
 
 **Live:** [https://taikyoku.vercel.app](https://taikyoku.vercel.app)
@@ -150,3 +151,6 @@ cd server && npm start
 ---
 
 Built for Web Weave '26.
+=======
+Contributed by Sujal
+>>>>>>> c2f80a05dd48643f587c8771a0cb69241042a364
